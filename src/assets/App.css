@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin: 50px auto;
+}
+
+.btn {
+  margin: 0 15px;
+  padding: 8px 14px;
+  font-weight: bolder;
+  font-size: 24px;
+  background-color: #eaeaea;
+  border: 1px solid #222;
+  border-radius: 6px;
+}
+
+.text {
+  font-size: 24px;
+  font-weight: bolder;
+}
